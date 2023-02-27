@@ -1,2 +1,0 @@
-# manipulando-dom
-Conociendo DOM
